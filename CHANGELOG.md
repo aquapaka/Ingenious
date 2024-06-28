@@ -1,5 +1,15 @@
 # ingenious
 
+## 0.3.0
+
+### Minor Changes
+
+- 57d4c3a: feat: add notes fuzzy searching
+
+### Patch Changes
+
+- 2ab6fc3: feat: improve badge ui contrast
+
 ## 0.2.0
 
 ### Minor Changes
